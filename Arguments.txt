@@ -1,0 +1,14 @@
+#variable arguments
+def add(num1=10,num2=20):
+
+	print(f'{num1=}+{num2=}={num1+num2}')
+add(100,200)
+add(12)
+add(10)
+
+#default arguments
+
+def add(num1,num2)
+	print(f'{num1=}+{num2=}={num1+num2}')
+add (num2=100, num1=250)
+
